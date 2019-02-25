@@ -1,0 +1,31 @@
+II. Functions
+
+a. Getting ready for physics class
+You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.
+
+b. Python Functions
+ 1. Write a function named average() that has two parameters named num1 and num2 and returns the average of these two numbers. 
+
+ 2. Write a function named tenth_power() that has one parameter named num and returns the num raised to the 10th power.
+
+ 3. Write a function named introduction() that has two parameters named first_name and last_name and returns {last_name, first_name last_name}
+
+ 4. Write a function named square_root() that has one parameter named num and uses exponents (**) to return the square root of num.
+
+ 5. Create a function called tip() that has two parameters named total and percentage and returns the amount you should tip.
+
+ 6. Create a function called win_percentage() that takes two parameters named wins and losses and returns the total percentage of games won.
+
+ 7. Write a function named first_three_multiples() that has one parameter named num. It should print the first three multiples of num and return the third multiple.
+
+ 8. Write a function named dog_years() that has two parameters named name and age. The function should compute the age in dog years and return the following string:"{name}, you are {age} years old in dog years".
+ Every one year of a human's life is equivalent to seven years of a dog's life. 
+
+ 9. Write a function named remainder() that has two parameters named num1 and num2 and returns the remainder of twice num1 divided by half of 
+ num2.
+ 
+ 10. Create a function named lots_of_math(). This function should have four parameters named a, b, c, and d. The function should print 3 lines and return 1 value.
+ First, the sum of a and b.
+ Second, d subtracted from c.
+ Third, the first number printed, multiplied by the second number printed.
+ Finally, it should return the third number printed mod a.

@@ -1,0 +1,11 @@
+VII. Dictionaries
+
+In this project, you will process some data from a group of friends playing scrabble. You will use dictionaries to organize players, words, and points.
+
+There are many ways you can extend this project on your own if you finish and want to get more practice!
+
+
+Additional functions:
+play_word() — a function that would take in a player and a word, and add that word to the list of words they've played
+update_point_totals() — turn your nested loops into a function that you can call any time a word is played
+make your letter_to_points dictionary able to handle lowercase inputs as well

@@ -1,0 +1,22 @@
+III. Control flow
+
+Python-control flow functions
+1. Create a function named in_range() that has three parameters named num, lower, and upper. Return True if num is greater than or equal to lower and less than or equal to upper. Otherwise, return False.
+
+2. Create a function named movie_review() that has one parameter named rating. If rating is less than or equal to 5, return "Avoid at all costs!". If rating is between 5 and 9, return "This one was fun.". If rating is 9 or above, return "Outstanding!"
+
+3. Create a function named twice_as_large() that has two parameters named num1 and num2. Return True if num1 is more than double num2. Return False otherwise.
+
+4. Create a function named large_power() that takes two parameters named base and exponent. If base raised to the exponent is greater than 5000, return True, otherwise return False
+
+5. Create a function called divisible_by_ten() that has one parameter named num. Return True if num is divisible by 10, and False otherwise. Consider how to use modulo (%) to check for divisibility.
+
+6. Create a function called max_num() that has three parameters named num1, num2, and num3. Return the largest of these three numbers. If any of two numbers tie as the largest, you should return "It's a tie!".
+
+7. Create a function called over_budget that has five parameters named budget, food_bill, electricity_bill, internet_bill, and rent. Return True if budget is less than the sum of the other four parameters. You've gone over budget! Return False otherwise.
+
+8. Create a function named always_false() that has one parameter named num. Using an if statement, your variable num, and the operators >, and <, make it so your function will return False no matter what number is stored in num.
+
+9. Create a function named not_sum_to_ten() that has two parameters named num1 and num2. Return True if num1 and num2 do not sum to 10. Return False otherwise.
+
+10. Create a function named same_name() that has two parameters named your_name and my_name. If our names are identical, return True. Otherwise, return False.
